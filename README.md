@@ -1,4 +1,4 @@
-# stm32f407vg based mixed signal multilayer PCB development using Altium Designer
+# stm32f407vg based mixed signal multilayer PCB development using Altium Designer [ongoing project]
  
 Ethernet PHY, STM32F407, STM32F103, CH340C, DAC/MIC, 24Bit ADC, 36W Drivers
 
